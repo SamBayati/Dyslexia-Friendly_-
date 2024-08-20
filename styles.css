@@ -1,0 +1,22 @@
+body {
+    background-color: #f0f0f0;
+}
+
+p, h1, h2, h3, h4, h5, h6, span, a, li, td, th {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.35em;
+    word-spacing: 0.56em;
+    line-height: 1.5;
+    font-style: normal;
+    text-decoration: none;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.boxed {
+    border: 1px solid #000;
+    padding: 10px;
+}
